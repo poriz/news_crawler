@@ -1,4 +1,5 @@
 # Airflow를 활용하여 news_data를 주기마다 크롤링하는 코드입니다.
+# tkinter를 사용하여 exe파일로 STS를 수행하는 버전을 추가했습니다.
 
 <개발 환경>
 WSL2 - Ubuntu 20.04.06
