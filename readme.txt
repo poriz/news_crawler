@@ -4,9 +4,9 @@
 <개발 환경>
 WSL2 - Ubuntu 20.04.06
 apache-airflow==2.5.2
-python3 3.8.10
+python==3.8.10
 
-라이브러리: pandas, openpyxl, sentence-transformers, airflow, bs4, requests,Timezone
+라이브러리: pandas, openpyxl, sentence-transformers, airflow, bs4, requests,Timezone, tkinter
 
 
 <작동 방식>
